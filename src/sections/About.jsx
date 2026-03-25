@@ -1,28 +1,28 @@
 import { Code2, Lightbulb, Rocket, Users } from "lucide-react";
-
 const highlights = [
   {
     icon: Code2,
     title: "Clean Code",
     description:
-      "Writing maintainable, scalable code that stands the test of time.",
+      "I focus on writing simple, readable code and continuously improving it as I learn better practices.",
   },
   {
     icon: Rocket,
     title: "Performance",
     description:
-      "Optimizing for speed and delivering lightning-fast user experiences.",
+      "I try to build fast and responsive applications by optimizing components and reducing unnecessary loads.",
   },
   {
     icon: Users,
     title: "Collaboration",
-    description: "Working closely with teams to bring ideas to life.",
+    description:
+      "I enjoy working with others, participating in hackathons, and learning from peers and open-source communities.",
   },
   {
     icon: Lightbulb,
-    title: "Innovation",
+    title: "Learning & Growth",
     description:
-      "Staying ahead with the latest technologies and best practices.",
+      "I actively explore new technologies, build projects, and practice DSA to grow as a developer.",
   },
 ];
 
