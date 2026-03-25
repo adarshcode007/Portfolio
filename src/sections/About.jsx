@@ -49,22 +49,25 @@ export const About = () => {
 
             <div className="space-y-4 text-muted-foreground animate-fade-in animation-delay-200">
               <p>
-                I'm a passionate software engineer with over 5 years of
-                experience crafting digital products that make a difference. My
-                journey started with a curiosity for how things work on the web,
-                and it has evolved into a deep expertise in modern frontend
-                technologies.
+                I'm a passionate Full Stack Developer and a Computer Science
+                student, focused on building scalable web applications and
+                solving real-world problems through code. My journey began with
+                curiosity about how the web works and has grown into a strong
+                interest in backend systems and full-stack development.
               </p>
+
               <p>
-                I specialize in React, Next.js, and TypeScript, building
-                everything from sleek landing pages to complex enterprise
-                applications. My approach combines technical excellence with a
-                keen eye for design and user experience.
+                I specialize in technologies like React, Next.js, Node.js, and
+                MongoDB, and have built projects ranging from social media
+                platforms to AI-powered applications. I enjoy creating
+                efficient, user-friendly solutions with a strong emphasis on
+                performance and clean architecture.
               </p>
+
               <p>
-                When I'm not coding, you'll find me exploring new technologies,
-                contributing to open-source projects, or sharing knowledge with
-                the developer community.
+                Beyond coding, I actively explore new technologies, participate
+                in hackathons, and continuously work on improving my
+                problem-solving skills through Data Structures and Algorithms.
               </p>
             </div>
 
